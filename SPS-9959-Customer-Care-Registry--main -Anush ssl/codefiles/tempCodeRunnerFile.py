@@ -1,0 +1,1 @@
+@app.route("/delete/<int:ticket_id>/<int:user_id>")
